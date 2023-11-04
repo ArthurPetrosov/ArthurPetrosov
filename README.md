@@ -21,7 +21,7 @@ I am Artur Petrosov.I'm studying at QA Automation Engineer
 * [Use jest-puppeteer](https://github.com/ArthurPetrosov/jsaqa-code/tree/main/7.4/puppeteer)
 
 
-## Мои сертификаты
+## My certificates
 * [Manual testing of web applications](https://drive.google.com/file/d/1XN7ORp2zxweuWlXee4ekhXwSymNeMSml/view?usp=sharing)
 * [Java for testers](https://drive.google.com/file/d/1tx1X942Il9wqDbwQB3lnYf9J7rcyLLcV/view?usp=sharing)
 * [Automated Testing](https://drive.google.com/file/d/1tBCIseQJj7r71UGEIVCXbj976iR8n9dK/view?usp=sharing)
