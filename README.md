@@ -22,8 +22,8 @@ I am Artur Petrosov.I'm studying at QA Automation Engineer
 
 
 ## My certificates
-* [Manual testing of web applications](https://drive.google.com/file/d/1XN7ORp2zxweuWlXee4ekhXwSymNeMSml/view?usp=sharing)
-* [Java for testers](https://drive.google.com/file/d/1tx1X942Il9wqDbwQB3lnYf9J7rcyLLcV/view?usp=sharing)
-* [Automated Testing](https://drive.google.com/file/d/1tBCIseQJj7r71UGEIVCXbj976iR8n9dK/view?usp=sharing)
-* [JavaScript for Testers](https://drive.google.com/file/d/1P7Uvq3EFdISEZ50XiGdIHuMLhICE-FJI/view?usp=sharing)
+* [Manual testing of web applications](https://drive.google.com/file/d/1uldoNWWitGv9EmluaZ6IVizIM6byOFvx/view?usp=sharing)
+* [Java for testers](https://drive.google.com/file/d/16Be42t-EDO1sHBEDvBS0FNkl6l_2w1Oy/view?usp=sharing)
+* [Automated Testing](https://drive.google.com/file/d/1qAOFPDGrGHLW-KPdtPiUh0VI6h6YaU83/view?usp=sharing)
+* [JavaScript for Testers](https://drive.google.com/file/d/1oXPl7KX8mylpMEJADD9I6RVhAcYxyEnj/view?usp=sharing)
 
