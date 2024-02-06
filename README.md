@@ -49,7 +49,7 @@ I've amassed over three years of diverse work experience, excelling in insurance
   *[Use jest-puppeteer](https://github.com/ArthurPetrosov/jsaqa-code/tree/main/7.4/puppeteer)*
 
 ---
-<img src="https://myreadme.vercel.app/api/embed/nancygespens?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/ArthurPetrosov?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 
