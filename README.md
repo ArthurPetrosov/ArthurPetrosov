@@ -4,8 +4,6 @@ I've amassed over three years of diverse work experience, excelling in insurance
 
 * My [resume](https://www.linkedin.com/in/arthur-petrosov-06177a25b/)
 
-* Started the course [CS50's Introduction to Programming with Python]()
-
 
 ---
 ## Some tools I use
