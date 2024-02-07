@@ -4,7 +4,7 @@ I've amassed over three years of diverse work experience, excelling in insurance
 
 * My [resume](https://www.linkedin.com/in/arthur-petrosov-06177a25b/)
 
-
+* Started the course [Automated Software Testing with Python](https://www.udemy.com/course/automated-software-testing-with-python/)
 ---
 ## Some tools I use
 
