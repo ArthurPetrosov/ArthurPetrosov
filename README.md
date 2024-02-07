@@ -1,4 +1,4 @@
-## Artur Petrosov | QA Engineer ✨
+## Artur Petrosov | QA Engineer 
 
 I've amassed over three years of diverse work experience, excelling in insurance transactions and event coordination with a keen eye for detail. My journey has led me to discover a passion for Quality Assurance (QA), where my innate qualities like organizational skills and effective communication thrive. I've actively pursued opportunities to enhance my QA expertise, engaging in educational projects and gaining practical experience through internships and freelance work. Committed to continuous improvement, I'm dedicated to contributing to the delivery of top-notch software solutions.
 
